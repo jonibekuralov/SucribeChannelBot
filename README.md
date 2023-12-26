@@ -1,2 +1,2 @@
-# SucribeChannelBot
- Majburiy obuna boti
+# aiogram-template
+ aiogram uchun shablon
